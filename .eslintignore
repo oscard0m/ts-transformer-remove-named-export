@@ -1,0 +1,6 @@
+test/
+dist/
+
+.eslintrc.js
+babel.config.js
+jest.config.js
